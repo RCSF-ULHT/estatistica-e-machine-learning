@@ -1,4 +1,4 @@
-# estatistica-e-machine-learning
+# Estatistica e Machine Learning
 
 conceitos base de estatística e machine learning
 
